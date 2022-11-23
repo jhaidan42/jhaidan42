@@ -1,4 +1,4 @@
-![Capa_Github_Jhaidan](https://user-images.githubusercontent.com/94374033/203615929-6850c342-32fa-4f7c-be18-23849a978ce8.png)
+![Capa_Github_Jhaidan](https://user-images.githubusercontent.com/94374033/203615929-6850c342-32fa-4f7c-be18-23849a978ce8.png)<br>
 Olá, seja bem vindo!<br>
 Sou Jhaidan, engenheiro mecânico em transição para a carreira de dados.<br>
 Aqui você vai encontrar alguns projetos meus.<br>
@@ -9,6 +9,6 @@ Você também pode me contatar por e-mail: jhaidan42@hotmail.com / jhaidan42@gma
 ---
 
 ### Tecnologias:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaidan42&layout=compact&theme=vision-friendly-radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaidan42&layout=compact&theme=vision-friendly-merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaidan42&hide=contribs,prs)
