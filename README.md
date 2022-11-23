@@ -9,4 +9,6 @@ Você também pode me contatar por e-mail: jhaidan42@hotmail.com / jhaidan42@gma
 ---
 
 ### Tecnologias:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaidan42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhaidan42&layout=compact&theme=vision-friendly-radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaidan42&hide=contribs,prs)
