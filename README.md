@@ -1,6 +1,6 @@
 ![Capa_Github_Jhaidan](https://user-images.githubusercontent.com/94374033/203615929-6850c342-32fa-4f7c-be18-23849a978ce8.png)<br>
 # Olá, seja bem vindo!<br>
-Sou Jhaidan, engenheiro mecânico em transição para a carreira de dados.<br>
+Sou Jhaidan, engenheiro mecânico em transição para a carreira em dados.<br>
 Aqui você vai encontrar alguns projetos meus.<br>
 Pretendo me aprofundar em Ciência de Dados, tendo também boa base em Análise de Dados.<br>
 Logo, meu objetivo atual é atuar como Analista de Dados Júnior ou similares.<br>
