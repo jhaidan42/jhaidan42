@@ -1,4 +1,4 @@
-[alt text](https://raw.githubusercontent.com/jhaidan42/imagens/main/Capa_Github_Jhaidan.png?token=GHSAT0AAAAAABZURJCM7WTAW5YPTVOSSHXCY36LTPA)
+![Capa_Github_Jhaidan](https://user-images.githubusercontent.com/94374033/203615929-6850c342-32fa-4f7c-be18-23849a978ce8.png)
 Olá, seja bem vindo!<br>
 Sou Jhaidan, engenheiro mecânico em transição para a carreira de dados.<br>
 Aqui você vai encontrar alguns projetos meus.<br>
