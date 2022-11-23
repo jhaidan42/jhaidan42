@@ -1,6 +1,9 @@
 Olá, seja bem vindo!
+&nbsp;
 Sou Jhaidan, engenheiro mecânico em transição para a carreira de dados.
+&nbsp;
 Aqui você vai encontrar alguns projetos meus.
+&nbsp;
 Pretento me aprofundar em Ciência de Dados, tendo também boa base em Análise de Dados.
 Logo, meu objetivo atual é atuar como Analista de Dados Júnior ou similares.
 Você pode ver minha trajetória, habilidades e mais sobre mim no meu [LinkedIn](https://www.linkedin.com/in/jhaidan42/)
